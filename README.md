@@ -1,7 +1,7 @@
 # 💫 About Me:
  ## Hi, I'm Luvuyo 🚀<br>Comp Sci Student @ Emeris | Process Architect | Problem Solver<br>
- <br>Currently learning:<br>PCB design,<br>TypeScript,<br>AI/ML <br>
- <br>🛠 Tech & Tools<br>Python<br>Java<br>JavaScript<br>CI/CD pipelines<br>
+<br>Currently learning:<br>PCB design,<br>TypeScript,<br>AI/ML <br>
+<br>🛠 Tech & Tools<br>Python<br>Java<br>JavaScript<br>CI/CD pipelines<br>
 
 
 ## 🌐 Socials:
