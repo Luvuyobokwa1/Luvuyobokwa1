@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi, I'm Luvuyo 🚀<br><br>Business Strategist | Process Architect | Problem Solver<br><br>Currently working on:<br>Accounting software for small business<br><br><br>Currently learning:<br>PCB design,<br>TypeScript,<br>AI/ML <br><br>🛠 Tech & Tools<br>Python<br>Java<br>JavaScript<br>CI/CD pipelines<br><br><br>"Execution is the only strategy the customer ever sees."
+# Hi, I'm Luvuyo 🚀<br><br>Business Strategist | Process Architect | Problem Solver<br><br>Currently working on:<br>Accounting software for small business<br><br><br>Currently learning:<br>PCB design,<br>TypeScript,<br>AI/ML <br><br>🛠 Tech & Tools<br>Python<br>Java<br>JavaScript<br>CI/CD pipelines<br><br>
 
 
 ## 🌐 Socials:
